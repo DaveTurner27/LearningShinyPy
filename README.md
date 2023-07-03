@@ -8,13 +8,17 @@ to do ...
 # Getting Started
 To get started with the Shiny for Python Learning Repository, follow these steps:
 
+
 1. Clone the repository to your local machine using the following command:
+   
 ```git clone https://github.com/your-username/shiny-for-python-learning.git```
 
-2. Navigate to the cloned repository:
+3. Navigate to the cloned repository:
+   
 ```cd shiny-for-python-learning```
 
-3. Install the required dependencies by running:
+5. Install the required dependencies by running:
+   
 ```pip install -r requirements.txt```
 
 # Contributing
